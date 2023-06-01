@@ -6,20 +6,20 @@ We know what possible outcomes could happen but not what particular outcomes wil
   
 #### Law of large numbers  
 		As more observations are collected, the proportion of occurences with a particular outcome converges to the probability of that outcome.  
+		Larger the sample size, the more convincing the evidence from that sample.  
 		P(heads) in   
 		10 throws /=/ 0.5  
 		1000 throws = 0.5  
   
-Objects are memoryless  
-The next outcome does not depend on the previous outcome  
-  
 #### Gambler's fallacy(Law of averages)  
 		Random processes are expected to compensate for previous outcomes  
+		Objects are memoryless  
+		The next outcome does not depend on the previous outcome  
   
 #### Disjoint events  
-				Mutually exclusive events cannot happen at the same time  
-				A student canot both fail and pass a class.  
-				P(A and B)=0  
+		Mutually exclusive events cannot happen at the same time  
+		A student canot both fail and pass a class.  
+		P(A and B)=0  
 ![disjoint](https://github.com/omkar-334/Probability-with-R/assets/40126336/1ba36cbf-693f-4c4d-8043-cd18c64cc35a)  
 ![djunion](https://github.com/omkar-334/Probability-with-R/assets/40126336/0785243d-4b48-41c0-a52b-884932e58bce)  
 ![nondjunion](https://github.com/omkar-334/Probability-with-R/assets/40126336/1141dc1c-12f9-4bf3-8d36-50798fca875b)  
@@ -51,9 +51,7 @@ A collection of all possible outcomes of a trial
 ![independence](https://github.com/omkar-334/Probability-with-R/assets/40126336/ac3c4118-0039-4f0e-8dd7-9e763da3060c)  
   
 #### Product Rule  
-If A and B are independent, P(A and B) = P(A) x P(B)  
-  
-Larger the sample size, the more convincing the evidence from that sample.  
+	If A and B are independent, P(A and B) = P(A) x P(B)  
   
 #### Conditional Probability  
 		P(A|B)  
