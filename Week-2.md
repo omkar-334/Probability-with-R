@@ -29,10 +29,10 @@ Distributions where more observations are clustered around the center are less v
   
 #### Data Transformations  
 		Natural log, inverse, square root  
-		Uses -
-			Change the structute of data  
-			Reduce Skew in modeling  
-			strighten a non linear relationship  
+		Uses 
+		  -Change the structure of data  
+		  -Reduce Skew in modeling  
+		  -Straighten a non linear relationship  
       
 #### Distribution characteristics  
 ![relationship](https://github.com/omkar-334/Probability-with-R/assets/40126336/b8362924-aa9e-4378-93a9-b8f8773351ba)  
@@ -50,8 +50,8 @@ Population parameters - greek letters - mu
 #### Null and Alternative Hypotheses  
 ![nva](https://github.com/omkar-334/Probability-with-R/assets/40126336/c1ebf7ff-0f71-4c80-b179-7741e378f8a6)  
 ![hypo](https://github.com/omkar-334/Probability-with-R/assets/40126336/090dd301-e080-4284-9b80-4868a17162f0)  
-![hyporecap]("https://github.com/omkar-334/Probability-with-R/assets/40126336/62aa54a8-8e7a-4894-b495-0b6b6418b142)  
-![summary]("https://github.com/omkar-334/Probability-with-R/assets/40126336/69fed569-4309-4f8a-979e-25467c1dec82)  
+![hyporecap](https://github.com/omkar-334/Probability-with-R/assets/40126336/62aa54a8-8e7a-4894-b495-0b6b6418b142)  
+![summary](https://github.com/omkar-334/Probability-with-R/assets/40126336/69fed569-4309-4f8a-979e-25467c1dec82)  
   
 #### Resources   
 		-[Data wrangling cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)  
