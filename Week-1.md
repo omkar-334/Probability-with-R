@@ -1,5 +1,5 @@
 # Collecting, Analyzing and Visualizing Data  
-  
+   
 #### Variables -   
 	-Numerical(quantitative)  
 			-Continuous - range  
