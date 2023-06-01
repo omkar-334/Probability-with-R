@@ -1,4 +1,4 @@
-# Numerical , Categorical Data and Inference
+# Numerical, Categorical Data and Inference  
 
 #### Evaluate relationships between numericals  
 		Scatterplot  
